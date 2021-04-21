@@ -9,7 +9,7 @@ ANCHO,ALTO=800,600
 
 reloj=pygame.time.Clock()
 ventana=pygame.display.set_mode((ANCHO,ALTO))
-pygame.display.set_caption("El juego de la nave wacho")
+pygame.display.set_caption("El juego de la nave")
 
 
 #cargar naves enemigas
